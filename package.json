@@ -1,0 +1,18 @@
+{
+    "name": "highstarter_child",
+    "version": "1.0.0",
+    "description": "A child theme of the Highstarter theme",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start",
+        "lint:css": "wp-scripts lint-style",
+        "lint:js": "wp-scripts lint-js",
+        "format:css": "npm run lint:css -- --fix",
+        "format:js": "npm run lint:js -- --fix"
+    },
+    "devDependencies": {
+        "@wordpress/scripts": "^24.6.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
