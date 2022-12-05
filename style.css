@@ -10,4 +10,12 @@
  Text Domain:  highstarter_child
 */
 
-/* Add your child theme's custom css below */
+/**
+ * This file is here to make WordPress happy. Do not modify.
+ *
+ * The actual stylesheets can be found in build folder but this
+ * theme uses Webpack so they are preprocessed from src/scss.
+ *
+ * If you wish to add custom css to this theme, go to 
+ * Theme Customizer => Additional CSS tab
+ */

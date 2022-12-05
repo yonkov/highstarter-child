@@ -11,8 +11,10 @@
         "format:js": "npm run lint:js -- --fix"
     },
     "devDependencies": {
-        "@wordpress/scripts": "^24.6.0"
+        "@wordpress/scripts": "^24.6.0",
+        "mini-css-extract-plugin": "^2.7.1",
+        "webpack-fix-style-only-entries": "^0.6.1"
     },
-    "author": "",
-    "license": "ISC"
+    "author": "Atanas Yonkov",
+    "license": "GNU GPL"
 }
