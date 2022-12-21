@@ -4,6 +4,7 @@
     "description": "A child theme of the Highstarter theme",
     "scripts": {
         "build": "wp-scripts build",
+        "postbuild": "rimraf build/**/*.map",
         "start": "wp-scripts start",
         "lint:css": "wp-scripts lint-style",
         "lint:js": "wp-scripts lint-js",
