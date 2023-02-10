@@ -10,4 +10,4 @@ You can also install it via the WordPress dashboard (appearance=> themes => uplo
 
 ## Development
 
-Install node.js and npm, then run `npm i`. To enter development mode run `npm run start`. To prepare a production built run `npm run build`. To format js files run `npm run format:js`
+Install node.js and npm, then run `npm i`. To enter development mode run `npm run start`. To prepare a production build run `npm run build`. To format js files run `npm run format:js`
